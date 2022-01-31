@@ -9,6 +9,8 @@ It is a level game with increasing difficulty in which each level is represented
 The game was implemented with Node.js and Typescript using [PixiJS](https://pixijs.com/) Engine.
 The project include a docker image with all need to build and run the game.
 
+![image info](./doc/gablin-maze-game-screenshot.png)
+
 **Notes**:  
 At present this software can be only considered a prototype with a good gameplay, music, level and scoring management, that includes a random maze generator also. The source code could be improved with a better organization and decoupling, then with new features.
 
