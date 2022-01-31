@@ -31,6 +31,12 @@ make shell
 
 The following command should be executed inside the docker container.
 
+Install dependencies (only the first time):
+
+```bash
+make install # npm install
+```
+
 Build:
 
 ```bash
