@@ -1,0 +1,14 @@
+{
+    "loop1"  : "sounds/loops/loop1.mp3",
+    "loop2"  : "sounds/loops/loop2.mp3",
+    "loop3"  : "sounds/loops/loop3.mp3",
+    "loop4"  : "sounds/loops/loop4.mp3",
+    "bird"   : "sounds/bird.mp3",
+    "boing"  : "sounds/boing.mp3",
+    "buzzer" : "sounds/buzzer.mp3",
+    "car"    : "sounds/car.mp3",
+    "chime"  : "sounds/chime.mp3",
+    "success": "sounds/success.mp3",
+    "sword"  : "sounds/sword.mp3",
+    "whistle": "sounds/whistle.mp3"
+}

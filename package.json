@@ -1,0 +1,32 @@
+{
+  "name": "gablin-game",
+  "version": "1.0.0",
+  "description": "Gablin (game)",
+  "main": "dist/game.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "http-server ./public -p 40080 -o",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Riccardo Fiorenza",
+    "email": "ricfio.professional@gmail.com"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^16.5.0",
+    "concurrently": "^4.1.1",
+    "gulp": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-typescript": "^5.0.1",
+    "http-server": "^0.9.0",
+    "merge-stream": "^2.0.0",
+    "pixi-sound": "^3.0.3",
+    "pixi.js": "^5.1.1",
+    "tsify": "^4.0.1",
+    "typescript": "^3.5.3",
+    "vinyl-source-stream": "^2.0.0"
+  }
+}
